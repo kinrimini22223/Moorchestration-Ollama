@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Go
+cow-manager
+go.sum
+
+# App Logs & User Data
+logs/
+*.txt
+
+# OS
+.DS_Store
+.directory
+
+# Screenshots
+*.png
